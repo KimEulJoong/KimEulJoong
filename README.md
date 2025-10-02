@@ -10,13 +10,30 @@
 
 ## 👋 About me
 SoC/FPGA · 반도체 시스템과 AI를 잇는 프로젝트를 꾸준히 하고 있습니다.  
-하드웨어(Verilog/SystemVerilog, AXI/APB, RISC-V)부터 파이썬/AI 응용까지, 아이디어를 **작동하는 결과물**로 만드는 것!
+하드웨어(Verilog/SystemVerilog, AXI/APB, RISC-V, VGA)부터 펌웨어 및 소프트웨어(AI)까지! 
 
+### 🎓 Education
+- **물리학과 & 컴퓨터공학과** 복수전공
+
+### 🛠️ Skills
+- **Hardware / SoC**
+  - SystemVerilog/Verilog, **AXI4 / APB**, SV Verification, Vivado(2020.2), Synopsys, VCS/Verdi  
+  - FPGA(Zybo Z7-20, Basys3), IP Integrator(Zybo), Custom Compiler(Layout)
+- **Embedded / Firmware**
+  - **STM32 (C, HAL/LL)**, Vitis, UART/I2C/SPI, GPIO/IRQ, 실시간 프로토콜 구현
+- **AI / Vision & Data**
+  - Python, **OpenCV**, YOLO(v5/v8), RandomForest, 데이터 전처리·라벨링·분류, Colab/Notebook
+- **Software / Web**
+  - Flask/FastAPI, React, SQL, 간단한 대시보드·REST API, Jupyter
+- **Tools**
+  - Git/GitHub, Notion, Jira, Matlab
+- **OS**
+  - Linux, Ubuntu
 ---
 
 ## 🔧 Tech
-`SystemVerilog` `Verilog` `C` `Python` `Colab` `Matlab` `Vitis` `STM32CubeIDE` `Vivado` `Synopsys` `VCS` `Verdi` `Custom Compiler` 
-`AXI4` `APB` `RISC-V` `OpenCV` `React` `Flask` `SQL` `Jupyter` `FPGA` `Cortex-M3`
+`FPGA` `SystemVerilog` `Verilog` `C` `Python` `Colab` `Matlab` `Vitis` `STM32CubeIDE` `Vivado` `Synopsys` `VCS` `Verdi` `Custom Compiler` 
+`AXI4` `APB` `RISC-V` `OpenCV` `React` `Flask` `SQL` `Jupyter` `Cortex-M3` `VGA`
 
 ---
 
