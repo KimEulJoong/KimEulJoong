@@ -63,9 +63,9 @@ SoC/FPGA · 반도체 시스템과 AI를 잇는 프로젝트를 꾸준히 하고
 ## 🗂 More repositories
 하드웨어 · 임베디드 · AI/데이터 사이드 작업들
 
-- **verilog-basys3_project** · **VGA** · **Device_Lab** (C/Verilog 실습 모음) :contentReference[oaicite:7]{index=7}
-- **Wine-Classification-AI** · **seoul_weather_5m** (분류/시계열 데이터 탐색) :contentReference[oaicite:8]{index=8}
-- **Predict_Web** · **da_design_server** (웹/서버 사이드 토이) :contentReference[oaicite:9]{index=9}
+- **Device_Lab** (C 실습 모음) :contentReference[oaicite:8]{index=8}
+- **Wine-Classification-AI** · **seoul_weather_5m** (분류/시계열 데이터 탐색) :contentReference[oaicite:9]{index=9}
+- **Predict_Web** · **da_design_server** (웹/서버 사이드 토이) :contentReference[oaicite:10]{index=10}
 
 👉 전체 목록: https://github.com/KimEulJoong?tab=repositories
 
