@@ -10,7 +10,7 @@
 
 ## 👋 About me
 SoC/FPGA · 반도체 시스템과 AI를 잇는 프로젝트를 꾸준히 하고 있습니다.  
-하드웨어(Verilog/SystemVerilog, AXI/APB, RISC-V, VGA)부터 펌웨어 및 소프트웨어(AI)까지! 
+하드웨어(Verilog/SystemVerilog, AXI/APB, RISC-V, VGA)부터 펌웨어 및 소프트웨어(AI)까지!    
 원리부터 응용, SW부터 HW까지 모든 분야를 경험하고 있는 도전자 입니다.
 
 ### 🎓 Education
