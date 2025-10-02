@@ -43,7 +43,7 @@ SoC/FPGA · 반도체 시스템과 AI를 잇는 프로젝트를 꾸준히 하고
 
 - **VGA_Motion_Recognition_Game** — 최종 프로젝트(모션/영상 + VGA 출력)  
   https://github.com/KimEulJoong/VGA_Motion_Recognition_Game :contentReference[oaicite:1]{index=1}
-- **512-point_FFT** - 512point FFT 설계
+- **512-point_FFT** - 512point FFT 설계   
   https://github.com/KimEulJoong/FFT_Hardware :contentReference[oaicite:2]{index=2}
 - **RV32I_CPU_APB_AXI4_LITE** — RISC-V RV32I 코어 + APB/AXI4-Lite 인터페이스 실습  
   https://github.com/KimEulJoong/RV32I_CPU_APB_AXI4_LITE :contentReference[oaicite:3]{index=3}
