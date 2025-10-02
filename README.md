@@ -11,6 +11,7 @@
 ## 👋 About me
 SoC/FPGA · 반도체 시스템과 AI를 잇는 프로젝트를 꾸준히 하고 있습니다.  
 하드웨어(Verilog/SystemVerilog, AXI/APB, RISC-V, VGA)부터 펌웨어 및 소프트웨어(AI)까지! 
+원리부터 응용, SW부터 HW까지 모든 분야를 경험하고 있는 도전자 입니다.
 
 ### 🎓 Education
 - **물리학과 & 컴퓨터공학과** 복수전공
@@ -56,7 +57,7 @@ SoC/FPGA · 반도체 시스템과 AI를 잇는 프로젝트를 꾸준히 하고
 - **face_attendance** · **faceattendance_front_react** — 얼굴 인식 출결 시스템(백엔드/프론트)  
   [Repo_Face_Attendance_AI](https://github.com/KimEulJoong/face_attendance)  
   [Repo_React](https://github.com/KimEulJoong/faceattendance_front_react)
-- **Paper: STT&SOT** - 물리학 학위 논문
+- **Paper: STT&SOT** - 물리학 학위 논문   
   [Repo_physics_Paper](https://github.com/KimEulJoong/physics_Paper)
   
 
